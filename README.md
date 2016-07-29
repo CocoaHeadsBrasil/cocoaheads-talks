@@ -17,34 +17,38 @@ Não esqueça de categorizar corretamente para mantermos uma boa organização!
 - [Campinas](https://github.com/CocoaHeadsBrasil/cocoaheads-talks/blob/master/README.md#campinas)
 - [São Paulo](https://github.com/CocoaHeadsBrasil/cocoaheads-talks/blob/master/README.md#sao-paulo)
 
-	
+
 ###Belo Horizonte
 
 #### 2016
 
 ####Março
 - Ferramentas Indispensáveis para o Desenvolvimento iOS
-	- [Marcílio Júnior](https://github.com/marciliojrs)
-	- [Slides](https://speakerdeck.com/marciliojrs/ferramentas-indispensaveis-no-desenvolvimento-ios)
+- [Marcílio Júnior](https://github.com/marciliojrs)
+- [Slides](https://speakerdeck.com/marciliojrs/ferramentas-indispensaveis-no-desenvolvimento-ios)
 
 ####Abril
 - Introdução ao Swift
-	- [Salmo Júnior](https://github.com/salmojunior)
-	- [Slides](https://speakerdeck.com/salmojunior/introducao-ao-swift-cocoaheads-bh)
+- [Salmo Júnior](https://github.com/salmojunior)
+- [Slides](https://speakerdeck.com/salmojunior/introducao-ao-swift-cocoaheads-bh)
 
 ####Maio
 - UIKit, Performance and Beyond...
-	- [Luiz Oliveira]()
-	- [Slides](http://slides.com/luizoliveira/uikit_performance_and_beyond)
+- [Luiz Oliveira]()
+- [Slides](http://slides.com/luizoliveira/uikit_performance_and_beyond)
 
 - Swift dominara o mundo! Por que usar?
-	- [https://github.com/brunoreginato]()
-	- [Slides](https://speakerdeck.com/brunoreginato/swift-dominara-o-mundo-por-que-usar)
+- [https://github.com/brunoreginato]()
+- [Slides](https://speakerdeck.com/brunoreginato/swift-dominara-o-mundo-por-que-usar)
 
 ####Julho
 - iOS Design Patterns
-	- [Bruno Guidolim](https://github.com/bguidolim)
-	- [Slides](http://www.slideshare.net/bguidolim/ios-design-patterns-64442493)
+- [Bruno Guidolim](https://github.com/bguidolim)
+- [Slides](http://www.slideshare.net/bguidolim/ios-design-patterns-64442493)
+
+- Segurança no iOS e o caso do iPhone da discórdia 
+- [Toni Albuquerque](https://github.com/acalbuquerque)
+- [Slides](http://www.slideshare.net/acalbuquerque/seguranca-no-ios-e-o-caso-do-iphone-da-discrdia-64524872)
 
 ###Campinas
 
@@ -52,9 +56,9 @@ Não esqueça de categorizar corretamente para mantermos uma boa organização!
 
 ####Setembro
 - Desenvolvimento iOS em projetos reais
-	- [Marcelo Fabri](https://github.com/marcelofabri)
-	- [Slides](https://speakerdeck.com/marcelofabri/desenvolvimento-ios-em-projetos-reais-qcon-rio-2014)
-	- [Vídeo](https://www.infoq.com/br/presentations/desenvolvimento-ios-em-projetos-reais) (apresentado no QCon Rio, mas a palestra é a mesma)
+- [Marcelo Fabri](https://github.com/marcelofabri)
+- [Slides](https://speakerdeck.com/marcelofabri/desenvolvimento-ios-em-projetos-reais-qcon-rio-2014)
+- [Vídeo](https://www.infoq.com/br/presentations/desenvolvimento-ios-em-projetos-reais) (apresentado no QCon Rio, mas a palestra é a mesma)
 
 ###São Paulo
 
@@ -62,5 +66,5 @@ Não esqueça de categorizar corretamente para mantermos uma boa organização!
 
 ####Março
 - Desenvolvendo um plugin para o Xcode
-	- [Marcelo Fabri](https://github.com/marcelofabri)
-	- [Slides](https://speakerdeck.com/marcelofabri/desenvolvendo-um-plugin-para-o-xcode)
+- [Marcelo Fabri](https://github.com/marcelofabri)
+- [Slides](https://speakerdeck.com/marcelofabri/desenvolvendo-um-plugin-para-o-xcode)
