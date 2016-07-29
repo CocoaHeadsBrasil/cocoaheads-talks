@@ -1,5 +1,6 @@
 # CocoaHeads Talks
 ![alt text](http://i.imgur.com/bsLTbx4.png)
+
 Repositório com dados das palestras e palestrantes do Cocoaheads de todo o Brasil.
 
 ##Atualização
@@ -12,7 +13,7 @@ Se você deu alguma talk em algum evento do Cocoaheads, basta fazer um Pull Requ
 Não esqueça de categorizar corretamente para mantermos uma boa organização!
 
 ##Chapters
-- [Belo Horizonte]()
+- [Belo Horizonte](https://github.com/CocoaHeadsBrasil/cocoaheads-talks/blob/master/README.md#belo-horizonte)
 
 	
 ###Belo Horizonte
