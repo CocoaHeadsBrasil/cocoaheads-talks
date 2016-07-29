@@ -14,9 +14,13 @@ Não esqueça de categorizar corretamente para mantermos uma boa organização!
 
 ##Chapters
 - [Belo Horizonte](https://github.com/CocoaHeadsBrasil/cocoaheads-talks/blob/master/README.md#belo-horizonte)
+- [Campinas](https://github.com/CocoaHeadsBrasil/cocoaheads-talks/blob/master/README.md#campinas)
+- [São Paulo](https://github.com/CocoaHeadsBrasil/cocoaheads-talks/blob/master/README.md#sao-paulo)
 
 	
 ###Belo Horizonte
+
+#### 2016
 
 ####Março
 - Ferramentas Indispensáveis para o Desenvolvimento iOS
@@ -41,3 +45,22 @@ Não esqueça de categorizar corretamente para mantermos uma boa organização!
 - iOS Design Patterns
 	- [Bruno Guidolim](https://github.com/bguidolim)
 	- [Slides](http://www.slideshare.net/bguidolim/ios-design-patterns-64442493)
+
+###Campinas
+
+#### 2014
+
+####Setembro
+- Desenvolvimento iOS em projetos reais
+	- [Marcelo Fabri](https://github.com/marcelofabri)
+	- [Slides](https://speakerdeck.com/marcelofabri/desenvolvimento-ios-em-projetos-reais-qcon-rio-2014)
+	- [Vídeo](https://www.infoq.com/br/presentations/desenvolvimento-ios-em-projetos-reais) (apresentado no QCon Rio, mas a palestra é a mesma)
+
+###São Paulo
+
+#### 2016
+
+####Março
+- Desenvolvendo um plugin para o Xcode
+	- [Marcelo Fabri](https://github.com/marcelofabri)
+	- [Slides](https://speakerdeck.com/marcelofabri/desenvolvendo-um-plugin-para-o-xcode)
