@@ -46,6 +46,10 @@ Não esqueça de categorizar corretamente para mantermos uma boa organização!
 	- [Bruno Guidolim](https://github.com/bguidolim)
 	- [Slides](http://www.slideshare.net/bguidolim/ios-design-patterns-64442493)
 
+- Segurança no iOS e o caso do iPhone da discórdia
+	- [Toni Albuquerque](https://github.com/acalbuquerque)
+	- [Slides](http://www.slideshare.net/acalbuquerque/seguranca-no-ios-e-o-caso-do-iphone-da-discrdia-64524872)
+
 ###Campinas
 
 #### 2014
