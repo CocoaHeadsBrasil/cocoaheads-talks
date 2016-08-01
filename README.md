@@ -53,6 +53,7 @@ Não esqueça de categorizar corretamente para mantermos uma boa organização!
 - Introdução ao SiriKit
 	- [Jonas Simões](https://github.com/JonasABR)
 	- [Slides](http://www.slideshare.net/JonasAlvesSimes/cocoaheads-talksirikit)
+	- [Projeto Exemplo](https://github.com/JonasABR/SiriKitExample)
 
 ###Campinas
 
