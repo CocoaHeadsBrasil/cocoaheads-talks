@@ -50,6 +50,11 @@ Não esqueça de categorizar corretamente para mantermos uma boa organização!
 	- [Toni Albuquerque](https://github.com/acalbuquerque)
 	- [Slides](http://www.slideshare.net/acalbuquerque/seguranca-no-ios-e-o-caso-do-iphone-da-discrdia-64524872)
 
+- Introdução ao SiriKit
+	- [Jonas Simões](https://github.com/JonasABR)
+	- [Slides](http://www.slideshare.net/JonasAlvesSimes/cocoaheads-talksirikit)
+	- [Projeto Exemplo](https://github.com/JonasABR/SiriKitExample)
+
 ###Campinas
 
 #### 2014
