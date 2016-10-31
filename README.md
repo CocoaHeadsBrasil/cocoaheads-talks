@@ -61,6 +61,10 @@ Não esqueça de categorizar corretamente para mantermos uma boa organização!
 	- [Rafael Reis](https://github.com/orafaelreis)
 	- [Slides](https://speakerdeck.com/orafaelreis/ux-entregando-uma-experiencia-completa)
 
+- Persistência de Dados: Análise e comparação de ferramentas
+	- [Paulo Gama](https://github.com/paulogama)
+	- [Slides](https://speakerdeck.com/paulogama/persistencia-de-dados-analise-e-comparacao-de-ferramentas-1)
+
 ###Campinas
 
 #### 2014
