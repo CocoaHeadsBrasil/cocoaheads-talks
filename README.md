@@ -75,6 +75,39 @@ Não esqueça de categorizar corretamente para mantermos uma boa organização!
 	- [Slides](https://speakerdeck.com/marcelofabri/desenvolvimento-ios-em-projetos-reais-qcon-rio-2014)
 	- [Vídeo](https://www.infoq.com/br/presentations/desenvolvimento-ios-em-projetos-reais) (apresentado no QCon Rio, mas a palestra é a mesma)
 
+#### 2015
+
+#### Fevereiro
+- Programação funcional em Swift
+	- [Francesco Perrotti-Garcia](https://github.com/fpg1503)
+
+#### Junho
+- Novidades do Swift 2.0
+	- [Francesco Perrotti-Garcia](https://github.com/fpg1503)
+	- [Slides](https://github.com/fpg1503/WhatsNewInSwift2Talk/releases)
+
+#### 2016
+
+#### Janeiro
+- FRP em Swift
+	- [Francesco Perrotti-Garcia](https://github.com/fpg1503)
+	- [Slides](https://github.com/fpg1503/FRPTalk/releases)
+
+#### Fevereiro
+- Optionals e o Gato de Schrödinger
+	- [Francesco Perrotti-Garcia](https://github.com/fpg1503)
+	- [Slides](https://github.com/fpg1503/OptionalsTalk/releases)
+
+#### Julho
+- A coisa mais sensacional que passou despercebida na WWDC
+	- [Francesco Perrotti-Garcia](https://github.com/fpg1503)
+	- [Slides](https://github.com/fpg1503/AmazingSpeechFrameworkTalk/releases)
+
+#### 2017
+- Caterpillar: de ideia a publicação - criando seus próprios frameworks
+	- [Francesco Perrotti-Garcia](https://github.com/fpg1503)
+	- [Slides](https://github.com/fpg1503/MakingFrameworksTalk/releases)
+
 ### São Paulo
 
 #### 2016
