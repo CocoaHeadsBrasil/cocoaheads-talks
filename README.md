@@ -18,9 +18,9 @@ Não esqueça de categorizar corretamente para mantermos uma boa organização!
 - [São Paulo](https://github.com/CocoaHeadsBrasil/cocoaheads-talks/blob/master/README.md#sao-paulo)
 
 	
-### Belo Horizonte
+## Belo Horizonte
 
-#### 2016
+### 2016
 
 #### Março
 - Ferramentas Indispensáveis para o Desenvolvimento iOS
@@ -65,9 +65,9 @@ Não esqueça de categorizar corretamente para mantermos uma boa organização!
 	- [Paulo Gama](https://github.com/paulogama)
 	- [Slides](https://speakerdeck.com/paulogama/persistencia-de-dados-analise-e-comparacao-de-ferramentas-1)
 
-### Campinas
+## Campinas
 
-#### 2014
+### 2014
 
 #### Setembro
 - Desenvolvimento iOS em projetos reais
@@ -75,9 +75,9 @@ Não esqueça de categorizar corretamente para mantermos uma boa organização!
 	- [Slides](https://speakerdeck.com/marcelofabri/desenvolvimento-ios-em-projetos-reais-qcon-rio-2014)
 	- [Vídeo](https://www.infoq.com/br/presentations/desenvolvimento-ios-em-projetos-reais) (apresentado no QCon Rio, mas a palestra é a mesma)
 
-### São Paulo
+## São Paulo
 
-#### 2016
+### 2016
 
 #### Março
 - Desenvolvendo um plugin para o Xcode
