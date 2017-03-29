@@ -4,7 +4,7 @@
 Repositório com dados das palestras e palestrantes do Cocoaheads de todo o Brasil.
 
 ## Atualização
-Se você deu alguma talk em algum evento do Cocoaheads, basta fazer um Pull Request contendo: 
+Se você deu alguma talk em algum evento do CocoaHeads, basta fazer um Pull Request contendo: 
 
 - Nome da talk;
 - Descrição;
@@ -83,3 +83,11 @@ Não esqueça de categorizar corretamente para mantermos uma boa organização!
 - Desenvolvendo um plugin para o Xcode
 	- [Marcelo Fabri](https://github.com/marcelofabri)
 	- [Slides](https://speakerdeck.com/marcelofabri/desenvolvendo-um-plugin-para-o-xcode)
+	
+### 2017
+
+#### Março
+- Com quantas views se faz uma APP?
+	- [Ronan Rodrigo Nunes](https://github.com/ronanrodrigo)
+	- [Slides e Código](https://github.com/ronanrodrigo/autolayout)
+	- [Post no equinócios](http://equinocios.com/view-code/2017/03/18/com-quantas-views-se-faz-um-APP)
