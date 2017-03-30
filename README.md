@@ -74,6 +74,14 @@ Não esqueça de categorizar corretamente para mantermos uma boa organização!
 	- [Marcelo Fabri](https://github.com/marcelofabri)
 	- [Slides](https://speakerdeck.com/marcelofabri/desenvolvimento-ios-em-projetos-reais-qcon-rio-2014)
 	- [Vídeo](https://www.infoq.com/br/presentations/desenvolvimento-ios-em-projetos-reais) (apresentado no QCon Rio, mas a palestra é a mesma)
+	
+### 2017
+
+#### Março
+- Notificações no iOS 10
+	- [Fabrício Serralvo](https://github.com/serralvo)
+	- [Slides](http://slideshare.net/fserralvo/notificaes-no-ios-10-73789479)
+	
 
 ## São Paulo
 
