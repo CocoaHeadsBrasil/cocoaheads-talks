@@ -110,6 +110,7 @@ Não esqueça de categorizar corretamente para mantermos uma boa organização!
   - [Slides](https://github.com/cocoaheads-rp/CocoaTalks/raw/master/cocoatalks-1/UxD!PrincipiosDeDesign.pdf)
 - RxSwift e Arquitetura VIPER
   - [Denis Oliveira](https://github.com/denisoliveira)
-  - [Slides](https://github.com/cocoaheads-rp/CocoaTalks/raw/master/cocoatalks-1/RxSwift%20e%20VIPER.pdf)
+
+- [Slides](https://github.com/cocoaheads-rp/CocoaTalks/raw/master/cocoatalks-1/RxSwift%20e%20VIPER.pdf)
 
     
