@@ -99,3 +99,17 @@ Não esqueça de categorizar corretamente para mantermos uma boa organização!
 	- [Ronan Rodrigo Nunes](https://github.com/ronanrodrigo)
 	- [Slides e Código](https://github.com/ronanrodrigo/autolayout)
 	- [Post no equinócios](http://equinocios.com/view-code/2017/03/18/com-quantas-views-se-faz-um-APP)
+
+## Ribeirão Preto
+
+### 2017
+
+#### Abril
+- UX or Die: Princípios de Design
+  - [Silvio França](http://www.silviofranca.com.br)
+  - [Slides](https://github.com/cocoaheads-rp/CocoaTalks/raw/master/cocoatalks-1/UxD!PrincipiosDeDesign.pdf)
+- RxSwift e Arquitetura VIPER
+  - [Denis Oliveira](https://github.com/denisoliveira)
+  - [Slides](https://github.com/cocoaheads-rp/CocoaTalks/raw/master/cocoatalks-1/RxSwift%20e%20VIPER.pdf)
+
+    
