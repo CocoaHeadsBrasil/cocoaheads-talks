@@ -107,31 +107,31 @@ Não esqueça de categorizar corretamente para mantermos uma boa organização!
 
 #### Março
 
-- Victor Panitz Magalhães
-	- Adicionando testes a aplicativos em produção
+- Adicionando testes a aplicativos em produção
+	- [Victor Panitz Magalhães](https://github.com/victorpanitz)
 	- [Youtube](https://www.youtube.com/watch?v=xXaq0Dkr8BQ&t=1s)
 
 
 #### Fevereiro
-- Henrique Morbin & Rafael Ramos
-	- Você já testou seus testes?
+- Você já testou seus testes?
+	- [Henrique Morbin](https://github.com/Morbix) & [Rafael Ramos](https://github.com/rakaramos)
 	- [Slides](https://www.slideshare.net/hgmorbin/voc-j-testou-os-seus-testes)
 
 
 #### Janeiro
 
-- Juliano Terres 
-	- Fastlane
+- Fastlane
+	- [Juliano Terres](https://github.com/julianoterres)
 	- [Git](https://github.com/julianoterres/ios-app-marvel-mvp-architecture)
 
-- Homero Oliveira
-	- Swift Tricks and Tips
+- Swift Tricks and Tips
+	- [Homero Oliveira](https://github.com/homerooliveira)
 	- [Slides](https://www.slideshare.net/HomeroJuniorOliveira1/swift-tips-and-tricks)
 
-- Nana Raythz
-	- IA Para Mobile
+- IA Para Mobile
+	- [Nana Raythz](https://github.com/nraythz)
 	- [Slides](https://pt.slideshare.net/NatliaRaythz/cocoa-heads-ia-para-mobile)
 
-- Luciano Sclovsky
-	- TDC PoA 2018 iOS Infographics
+- TDC PoA 2018 iOS Infographics
+	- [Luciano Sclovsky](https://github.com/lucianosky)
 	- [Slides](https://pt.slideshare.net/lucianosclovsky/tdc-poa-2018-ios-infographics)
