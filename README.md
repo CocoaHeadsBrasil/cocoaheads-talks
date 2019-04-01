@@ -16,6 +16,7 @@ Não esqueça de categorizar corretamente para mantermos uma boa organização!
 - [Belo Horizonte](https://github.com/CocoaHeadsBrasil/cocoaheads-talks/blob/master/README.md#belo-horizonte)
 - [Campinas](https://github.com/CocoaHeadsBrasil/cocoaheads-talks/blob/master/README.md#campinas)
 - [São Paulo](https://github.com/CocoaHeadsBrasil/cocoaheads-talks/blob/master/README.md#sao-paulo)
+- [Porto Alegre](https://github.com/CocoaHeadsBrasil/cocoaheads-talks/blob/master/README.md#porto-alegre)
 
 	
 ## Belo Horizonte
@@ -99,3 +100,38 @@ Não esqueça de categorizar corretamente para mantermos uma boa organização!
 	- [Ronan Rodrigo Nunes](https://github.com/ronanrodrigo)
 	- [Slides e Código](https://github.com/ronanrodrigo/autolayout)
 	- [Post no equinócios](http://equinocios.com/view-code/2017/03/18/com-quantas-views-se-faz-um-APP)
+
+## Porto Alegre
+
+### 2019
+
+#### Março
+
+- Victor Panitz Magalhães
+	- Adicionando testes a aplicativos em produção
+	- [Youtube](https://www.youtube.com/watch?v=xXaq0Dkr8BQ&t=1s)
+
+
+#### Fevereiro
+- Henrique Morbin & Rafael Ramos
+	- Você já testou seus testes?
+	- [Slides](https://www.slideshare.net/hgmorbin/voc-j-testou-os-seus-testes)
+
+
+#### Janeiro
+
+- Juliano Terres 
+	- Fastlane
+	- [Git](https://github.com/julianoterres/ios-app-marvel-mvp-architecture)
+
+- Homero Oliveira
+	- Swift Tricks and Tips
+	- [Slides](https://www.slideshare.net/HomeroJuniorOliveira1/swift-tips-and-tricks)
+
+- Nana Raythz
+	- IA Para Mobile
+	- [Slides](https://pt.slideshare.net/NatliaRaythz/cocoa-heads-ia-para-mobile)
+
+- Luciano Sclovsky
+	- TDC PoA 2018 iOS Infographics
+	- [Slides](https://pt.slideshare.net/lucianosclovsky/tdc-poa-2018-ios-infographics)
